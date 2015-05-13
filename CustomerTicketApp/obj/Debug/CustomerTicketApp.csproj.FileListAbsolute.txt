@@ -1,0 +1,9 @@
+E:\Tarik Rahman\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.exe.config
+E:\Tarik Rahman\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.exe
+E:\Tarik Rahman\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.pdb
+E:\Tarik Rahman\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.Properties.Resources.resources
+E:\Tarik Rahman\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.csproj.GenerateResource.Cache
+E:\Tarik Rahman\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.exe
+E:\Tarik Rahman\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.pdb
+E:\Tarik Rahman\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.TicketSystem.resources
+E:\Tarik Rahman\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.csprojResolveAssemblyReference.cache
